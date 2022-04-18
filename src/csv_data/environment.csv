@@ -1,0 +1,5 @@
+"name","environmental_link","environmental_effect","affects_expression"
+"air pollution","heart disease",,
+"lead exposure","heart disease",,
+"arsenic exposure","heart disease",,
+"temperature",,,"SOX9"

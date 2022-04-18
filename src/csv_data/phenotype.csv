@@ -1,0 +1,13 @@
+"Phenotype","associated_with_locus","susceptible_to","linked_to_environment"
+"albinism, brown oculocutaneous","ENSG00000104044",,
+"albinism, oculocutaneous, type II ","ENSG00000104044",,
+"blonde hair","ENSG00000104044",,
+"blue eyes","ENSG00000104044","age related macular degeneration","UV light"
+"blue eyes","ENSG00000128731",,
+"normal metabolizer","ENSG00000138109",,
+"intermediate metabolizer","ENSG00000138109",,
+"poor metabolizer","ENSG00000138109",,
+"perceived skin darkness","ENSG00000128731",,
+"freckles","ENSG00000128731",,
+"sun tanning","ENSG00000128731",,"UV light"
+"runty jerky sterile","ENSMUSG00000030451",,

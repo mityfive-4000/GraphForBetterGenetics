@@ -1,0 +1,32 @@
+"id","symbol","name","locusType","contained_within","startPos","endPos","gene_allele","grouped_within","homology","homologyType","interacts_with_gene"
+"ENSG00000184895","SRY","sex determining region Y","protein coding","Primary_Human_Y",2786855,2787682,,"SOX",,,
+"ENSMUSG00000069036","SRY","sex determining region Y","protein coding","Primary_Mouse_Y",2662471,2663658,,"SOX","ENSG00000184895","orthologue",
+"ENSPTRG00000022469","SRY","sex determining region Y","protein coding","Primary_Chimpanzee_Y",26210392,26211006,,"SOX","ENSG00000184895","orthologue",
+"ENSG00000182968","SOX1","SRY-box transcription factor 1","protein coding","Primary_Human_13",112067149,112071706,,"SOX","ENSG00000184895","paralogue",
+"ENSG00000125398","SOX9","SRY-box transcription factor 9","protein coding","Primary_Human_17",72121020,72126416,,"SOX",,,"ENSG00000184895"
+"ENSG00000136931","NR5A1","nuclear receptor subfamily 5 group A member 1","protein coding","Primary_Human_9",124481236,124507420,,"NR",,,"ENSG00000184895"
+,,,,,,,,,,,
+"ENSG00000104044","OCA2","melanosomal transmembrane protein","protein coding","Primary_Human_15",27754875,28099315,,,,,
+"ENSG00000277361","OCA2","melanosomal transmembrane protein","protein coding","CHR_HSCHR15_4_CTG8",27871154,28099370,"ENSG00000104044",,,,
+"ENSMUSG00000030450","Oca2","melanosomal transmembrane protein","protein coding","Primary_Mouse_7",55889508,56186266,,,"ENSG00000104044","orthologue",
+,,,,,,,,,,,
+,,,,,,,,,,,
+"ENSG00000128731","HERC2","HECT and RLD domain containing E3 ubiquitin protein ligase 2","protein coding","Primary_Human_15",28111040,28322179,,"HERC",,,"ENSG00000104044"
+"ENSG00000277278","HERC2","HECT and RLD domain containing E3 ubiquitin protein ligase 2","protein coding","CHR_HSCHR15_1_CTG8",28320122,28322152,"ENSG00000128731","HERC",,,
+"ENSG00000276802","HERC2","HECT and RLD domain containing E3 ubiquitin protein ligase 2","protein coding","CHR_HSCHR15_4_CTG8",28110217,28435080,"ENSG00000128731","HERC",,,
+"ENSG00000274471","HERC2P7","hect domain and RLD 2 pseudogene 7 ","pseudogene","Prmary_Human_15",23309607,23314566,,"HERC",,,
+"ENSMUSG00000030451","HERC2","HECT and RLD domain containing E3 ubiquitin protein ligase 2","protein coding","Primary_Mouse_7",55699944,55881548,,"HERC","ENSG00000128731","orthologue",
+,,,,,,,,,,,
+"ENSG00000128573","FOXP2","forkhead box P2","protein coding","Primary_Human_7",114086327,114693772,,"FOX",,,
+"ENSG00000137166 ","FOXP4","forkhead box P4","protein coding","Primary_Human_6",41546381,41602384,,"FOX","ENSG00000128573","paralogue",
+"ENSG00000176165","FOXG1","forkhead box G1","protein coding","Primary_Human_14",28766787,28770277,,"FOX","ENSG00000128573","paralogue",
+"ENSG00000168269","FOXI1","forkhead box I1","protein coding","Primary_Human_5",170105897,170109734,,"FOX","ENSG00000128573","paralogue",
+"ENSG00000137273","FOXF2","forkhead box F2","protein coding","Primary_Human_6",1389576,395603,,"FOX","ENSG00000128573","paralogue",
+,,,,,,,,,,,
+"ENSG00000174469","CNTNAP2","contactin associated protein 2","protein coding","Primary_Human_7",146116002,148420998,,"neurexin",,,"ENSG00000128573"
+"ENSG00000184144","CNTN2","contactin 2","protein coding","Primary_Human_1",205042937,205078289,,"immunoglobin",,,"ENSG00000174469"
+,,,,,,,,,,,
+"ENSG00000138109","CYP2C9","cytochrome P450 family 2 subfamily C member 9","protein coding","Primary_Human_10",94938658,94990091,,"CYP",,,
+,,,,,,,,,,,
+"ENSG00000120254","MTHFD1L","methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 1 like","protein coding","Primary_Human_6",150865679,151101887,,,,,
+"ENSG00000134222","PSRC1","proline and serine rich coiled-coil 1","protein coding","Primary_Human_1",109279556,109283186,,,,,

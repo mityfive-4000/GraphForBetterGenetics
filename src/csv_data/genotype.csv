@@ -1,0 +1,11 @@
+"name","variant","link_to_phenotype"
+"homozygous CYP2C9*1","CYP2CP*1","normal metabolizer"
+"heterozygous CYP2C9*1 CYP2C9*2","CYP2CP*1","intermediate metabolizer"
+"heterozygous CYP2C9*1 CYP2C9*2","CYP2CP*2",
+"heterozygous CYP2C9*1 CYP2C9*3","CYP2CP*1","intermediate metabolizer"
+"heterozygous CYP2C9*1 CYP2C9*3","CYP2CP*3",
+"heterozygous CYP2C9*2 CYP2C9*3","CYP2CP*2","poor metabolizer"
+"heterozygous CYP2C9*2 CYP2C9*3","CYP2CP*3",
+"homozygous CYP2C9*2","CYP2CP*2","poor metabolizer"
+"homozygous CYP2C9*3","CYP2CP*3","poor metabolizer"
+"homozygous rs12913832","rs12913832","blue eyes"

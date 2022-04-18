@@ -1,0 +1,4 @@
+"id","position","globalMAF","clinicalSignificance","consequence","sift","genetic_variant_of","linked_to_phenotype","linked_to_disorder"
+"rs12913832","15:28120472",0.177,"association","intron variant",,"ENST00000261609.13","blue eyes",
+"CYP2CP*2",,,,,,"ENST00000260682.8","poor metabolizer",
+"CYP2CP*3",,,,,,"ENST00000260682.8","poor metabolizer",

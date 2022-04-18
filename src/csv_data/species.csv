@@ -1,0 +1,7 @@
+"id","genus","family","order","class","phylum","kingdom"
+"homo sapiens","homo","hominidae","primates","mammalia","chordata","animalia"
+"homo neanderthalensis","homo","hominidae","primates","mammalia","chordata","animalia"
+"pan troglodytes","pan","hominidae","primates","mammalia","chordata","animalia"
+"mus musculus","mus","muridae","rodentia","mammalia","chordata","animalia"
+"drosophila melanogaster","drosophila","drosophilidae","diptera","insecta","arthropoda","animalia"
+"caenorhabditis elegans","caenorhabditis","rhabditidae","rhabditida","chromadorea","nematoda","animalia"
