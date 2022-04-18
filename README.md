@@ -27,11 +27,15 @@ Other additions:
 No additional dependencies are needed to run this project in TigerGraph. 
 
 ## Installation
+The **src** folder contains the following items:
+1. **export_922368599.tar.gz** - the exported tarball of the complete schema and data mapping, created by "Export Current Solution" in GraphStudio
+2. **csv_data** - folder containing the individual data .csv files that are needed to reproduce the examples demonstrated in the video
+3. **all_data.ods** - the example data as an OpenDocument Spreadsheet with multiple tabs (provided for convenience only)
 
+To install the schema and database:
 1. Clone repository
-2. Install dependencies
-3. Access data
-4. Steps to build/run project
+2. Import the tarball in GraphStudio by clicking "Import An Existing Solution" to install the schema and data mapping
+3. Add and upload the data .CSV files (the data mapping page will show duplicate file icons that can be deleted after loading the data)
 
 ## Known Issues and Future Improvements
 
