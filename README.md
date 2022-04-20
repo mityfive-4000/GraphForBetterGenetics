@@ -23,4 +23,4 @@ To install the schema and database:
 1. Clone repository
 2. Import the tarball in GraphStudio by clicking "Import An Existing Solution" to install the schema and data mapping
 3. Add and upload the data .CSV files (the data mapping page will show duplicate file icons that can be deleted after loading the data)
-4. Use GraphStudio or code to query the graph database
+4. Use GraphStudio or code to query the database
