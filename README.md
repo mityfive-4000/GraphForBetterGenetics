@@ -3,8 +3,6 @@
 
 **Problem Statement addressed: Graph For Better X**
 
-**Description**: 
-
 DNA sequencing generates incredible amounts of data describing nucleotide sequences and genetic variants and their coded products, often spread across multiple databases. Other databases contain details of medical conditions and treatments, which may be affected by genetic variation. By using graph analytics, the associations between genetic variants, traits, disorders and treatments can be fully exploited and understood, by providing a mechanism to link all the data together in an accessible way.
 
 **More information:**
@@ -25,3 +23,4 @@ To install the schema and database:
 1. Clone repository
 2. Import the tarball in GraphStudio by clicking "Import An Existing Solution" to install the schema and data mapping
 3. Add and upload the data .CSV files (the data mapping page will show duplicate file icons that can be deleted after loading the data)
+4. Use GraphStudio or code to query the graph database
