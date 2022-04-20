@@ -1,11 +1,8 @@
 # Graph For Better Genetics
-**Contributers and Contact Information: Tim W. https://devpost.com/tim1988**
-
-**Problem Statement addressed: Graph For Better X**
 
 DNA sequencing generates incredible amounts of data describing nucleotide sequences and genetic variants and their coded products, often spread across multiple databases. Other databases contain details of medical conditions and treatments, which may be affected by genetic variation. By using graph analytics, the associations between genetic variants, traits, disorders and treatments can be fully exploited and understood, by providing a mechanism to link all the data together in an accessible way.
 
-**More information:**
+**Full information:**
 https://devpost.com/software/graph-for-better-genetics
 
 ## Dependencies
